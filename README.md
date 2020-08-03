@@ -19,4 +19,4 @@ If You find any difficulties while implementing this in AWS, please reachout me 
 
 Screenshots are present in : LibraryMgmntSystem_AWS_Cognito_NJS.pdf
 
-Demo URL : ec2-52-66-199-191.ap-south-1.compute.amazonaws.com:3121
+http://ec2-52-66-199-191.ap-south-1.compute.amazonaws.com:3121
