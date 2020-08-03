@@ -1,0 +1,9 @@
++++++++++++++++++++03-08-2020 09:50:24+++++++++++++++++++++
+Error
+    at /home/ubuntu/myTest/Library_Magmnt_System_MongoSession_Store/controllers/auth.js:135:18
+    at /home/ubuntu/myTest/Library_Magmnt_System_MongoSession_Store/node_modules/amazon-cognito-identity-js/lib/CognitoUserPool.js:130:16
+    at /home/ubuntu/myTest/Library_Magmnt_System_MongoSession_Store/node_modules/amazon-cognito-identity-js/lib/Client.js:135:14
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+{"code":"UsernameExistsException","name":"UsernameExistsException","message":"User already exists"}
+User already exists
++++++++++++++++++++03-08-2020 09:50:24+++++++++++++++++++++
